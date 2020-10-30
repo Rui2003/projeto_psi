@@ -11,7 +11,7 @@ Contactos
 
     
         <div class="container">
-            <h1 class="display-3 ">Empresa</h1>
+            <h1 class="display-3 ">Contactos</h1>
             <p>
             <p>
     
@@ -22,17 +22,20 @@ Contactos
 
     <div class="row">
         <div class="col-md-4">
-            <h2> Data De fundação </h2>
-            <p>A Make Your Transition é uma empresa fundada em 2015 especializada na área de DJ e Produção musical. Com vários serviços á disposiçao dos seus clientes desde aluger e assistencia de equipamentos até á formação nessas mesmas áreas.</p>
+            <h2> Telemóvel </h2>
+           <b><p>+351 934567891</p></b>
             
 
         </div>
         <div class="col-md-4">
-            <h2> Certificado </h2>
-            <p>A Make Your Transition em 2018 recebeu um certificado na formação dos seus alunos.</p>
+            <h2> E-mail </h2>
+            <b><p>makeyourtransition@help.com</p></b>
+
             
         </div>
-           
+        
+          </div>
+      </div>
 
       <hr>
 </div>
@@ -40,7 +43,6 @@ Contactos
 </main>
 
 <footer  class="container">
-    
   
 </footer>
 <script src="js/jquery-3.5.1.min.js" type="text/javascript"></script>

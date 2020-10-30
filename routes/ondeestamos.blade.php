@@ -13,7 +13,7 @@
             <h1 class="display-3 ">Onde Estamos</h1>
             <p>
             <p>
-        <b>LOJAS ONLINE & MARKETING DIGITAL</b>
+        <b> </b>
 
 
 

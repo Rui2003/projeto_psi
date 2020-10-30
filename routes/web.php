@@ -28,3 +28,8 @@ Route::get('empresa', function () {
 Route::get('ondeestamos', function () {
     return view('ondeestamos');
 });
+Route::get('contactos', function () {
+    return view('contactos');
+});
+
+
